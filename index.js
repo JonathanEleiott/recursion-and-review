@@ -66,6 +66,11 @@ console.log(power(3, 4));
 // power(2, 1) = 2
 
 
+
+
+
+// Classes and BST Review
+
 class Node {
   constructor(val) {
     this.value = val;
@@ -82,7 +87,7 @@ class BinarySearchTree {
   preOrderLog() {
 
   }
-  
+
   inOrderLog() {
 
   }
